@@ -7,22 +7,21 @@
     tools:context=".HomeFragment">
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="178dp"
-        android:layout_marginLeft="178dp"
-        android:layout_marginTop="299dp"
-        android:layout_marginEnd="176dp"
-        android:layout_marginRight="176dp"
-        android:layout_marginBottom="299dp"
-        android:text="2"
-        android:textColor="#000"
-        android:textSize="100dp"
+        android:layout_marginStart="179dp"
+        android:layout_marginLeft="179dp"
+        android:layout_marginTop="339dp"
+        android:layout_marginEnd="175dp"
+        android:layout_marginRight="175dp"
+        android:layout_marginBottom="373dp"
+        android:text="Glückwunsch"
+        android:textSize="50dp"
         android:textStyle="bold"
+        android:textColor="#000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
